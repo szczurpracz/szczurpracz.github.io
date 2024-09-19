@@ -1,10 +1,16 @@
 body
 
 {
-    background-color: rgb(110, 80, 80);
+    background-color: rgb(216, 215, 167);
 }
 p{
-    color:rgb(255, 255, 255);
-    font-size:x-large;
+    color:rgb(139, 54, 15);
+    font-size:17pt;
     font-weight:bold;
 }
+div{
+max-width: 700px;
+
+
+}
+h2{color:rgb(117, 69, 7)}
